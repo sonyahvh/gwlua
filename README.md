@@ -1,3 +1,2 @@
-# gwlua
-11
-#   CLICK TO GO API
+# Welcome to the GW LUA API
+# [Click here to visit the wiki](https://github.com/sonyahvh/gwlua/wiki)
